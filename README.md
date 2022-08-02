@@ -22,7 +22,7 @@ symfony check:requirements
 ### Lancer l'environnement de développement
 
 ```bash
-docker compose up -d
+docker-compose up -d
 symfony serve -d
 ```
 
